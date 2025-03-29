@@ -65,5 +65,6 @@ BoostHive/
 - 如果需要更高效的线程池实现，可参考 Boost 或 Intel TBB 等库。
 
 ## 最后
-如果你觉得这个项目对你有帮助，请给个 ⭐Star⭐ 支持一下吧！  
+如果你觉得这个项目对你有帮助，请给个 ⭐Star⭐ ![GitHub stars](https://img.shields.io/github/stars/zdjts/ttaskFlow?style=social)
+ 支持一下吧！  
 多线程的世界很精彩，快来一起探索吧！😄
