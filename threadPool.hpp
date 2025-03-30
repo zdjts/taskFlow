@@ -48,7 +48,9 @@ public:
         }
         condition.notify_one(); // 通知一个线程处理任务
     }
-
+    bool empty() {
+        return tasks.empty();
+    }
 private:
     int maxCore;                        // 最大线程数
     vector<std::thread> workes;         // 存储线程对象的容器
